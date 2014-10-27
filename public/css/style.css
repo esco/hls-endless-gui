@@ -1,0 +1,27 @@
+* {
+  outline: 0;
+}
+
+body {
+  text-align: center;
+  padding-top: 120px;
+}
+
+#loader {
+  position: absolute;
+  margin: 0 auto;
+  top: 40px;
+}
+
+#control {
+  display: block;
+  margin: 0 auto;
+  font-size: 45px;
+}
+
+#url {
+  width: 535px;
+  margin-top:20px;
+  text-align: center;
+}
+
